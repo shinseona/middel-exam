@@ -1,0 +1,58 @@
+﻿UserObject.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewGetUniformLocation
+Character.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewGetUniformLocation
+FileManager.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewGetUniformLocation
+RenderObject.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewGetUniformLocation
+Sphere.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewGetUniformLocation
+FileManager.obj : error LNK2019: __imp____glewCompressedTexImage2D"public: unsigned int __thiscall FileManager::LoadDDS(char const *)" (?LoadDDS@FileManager@@QAEIPBD@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewBindBuffer"public: void __thiscall FileManager::loadObj(class RenderObject *,char const *,char const *,char const *,char const *)" (?loadObj@FileManager@@QAEXPAVRenderObject@@PBD111@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewBindBuffer
+RenderObject.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewBindBuffer
+FileManager.obj : error LNK2019: __imp____glewBufferData"public: void __thiscall FileManager::loadObj(class RenderObject *,char const *,char const *,char const *,char const *)" (?loadObj@FileManager@@QAEXPAVRenderObject@@PBD111@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+RenderObject.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewBufferData
+FileManager.obj : error LNK2019: __imp____glewGenBuffers"public: void __thiscall FileManager::loadObj(class RenderObject *,char const *,char const *,char const *,char const *)" (?loadObj@FileManager@@QAEXPAVRenderObject@@PBD111@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+RenderObject.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewGenBuffers
+FileManager.obj : error LNK2019: __imp____glewAttachShader"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewCompileShader"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewCreateProgram"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewCreateShader"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewDeleteShader"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewDetachShader"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewGetProgramInfoLog"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewGetProgramiv"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewGetShaderInfoLog"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewGetShaderiv"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewLinkProgram"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewShaderSource"public: unsigned int __thiscall FileManager::LoadShaders(char const *,char const *)" (?LoadShaders@FileManager@@QAEIPBD0@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+FileManager.obj : error LNK2019: __imp____glewBindVertexArray"public: void __thiscall FileManager::loadObj(class RenderObject *,char const *,char const *,char const *,char const *)" (?loadObj@FileManager@@QAEXPAVRenderObject@@PBD111@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewBindVertexArray
+FileManager.obj : error LNK2019: __imp____glewGenVertexArrays"public: void __thiscall FileManager::loadObj(class RenderObject *,char const *,char const *,char const *,char const *)" (?loadObj@FileManager@@QAEXPAVRenderObject@@PBD111@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp____glewGenVertexArrays
+InputManager.obj : error LNK2019: _glfwGetKey"public: int __thiscall InputManager::GetKey(int)" (?GetKey@InputManager@@QAEHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwGetKey
+main.obj : error LNK2019: _glfwTerminate_main 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwTerminate
+main.obj : error LNK2019: _glfwWindowShouldClose_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: _glfwPollEvents_main 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwPollEvents
+main.obj : error LNK2019: _glfwSwapBuffers_main 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp__glewInit@0"public: void __thiscall Renderer::Init(void)" (?Init@Renderer@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: _glfwInit"public: void __thiscall Renderer::Init(void)" (?Init@Renderer@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: _glfwWindowHint"public: void __thiscall Renderer::Init(void)" (?Init@Renderer@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: _glfwCreateWindow"public: void __thiscall Renderer::Init(void)" (?Init@Renderer@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: _glfwSetInputMode"public: void __thiscall Renderer::Init(void)" (?Init@Renderer@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: _glfwSetCursorPos"public: void __thiscall Renderer::Init(void)" (?Init@Renderer@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: _glfwMakeContextCurrent"public: void __thiscall Renderer::Init(void)" (?Init@Renderer@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp____glewActiveTexture"public: void __thiscall Renderer::draw(class RenderObject *)" (?draw@Renderer@@QAEXPAVRenderObject@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp____glewDisableVertexAttribArray"public: void __thiscall Renderer::draw(class RenderObject *)" (?draw@Renderer@@QAEXPAVRenderObject@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp____glewEnableVertexAttribArray"public: void __thiscall Renderer::draw(class RenderObject *)" (?draw@Renderer@@QAEXPAVRenderObject@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp____glewUniform1i"public: void __thiscall Renderer::draw(class RenderObject *)" (?draw@Renderer@@QAEXPAVRenderObject@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp____glewUniformMatrix4fv"public: void __thiscall Renderer::draw(class RenderObject *)" (?draw@Renderer@@QAEXPAVRenderObject@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp____glewUseProgram"public: void __thiscall Renderer::draw(class RenderObject *)" (?draw@Renderer@@QAEXPAVRenderObject@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp____glewVertexAttribPointer"public: void __thiscall Renderer::draw(class RenderObject *)" (?draw@Renderer@@QAEXPAVRenderObject@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp____glewDeleteVertexArrays"public: virtual void __thiscall Renderer::ShutDown(void)" (?ShutDown@Renderer@@UAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Renderer.obj : error LNK2019: __imp__glewExperimental"public: void __thiscall Renderer::Init(void)" (?Init@Renderer@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+RenderObject.obj : error LNK2019: __imp____glewDeleteBuffers"public: virtual void __thiscall RenderObject::ShutDown(void)" (?ShutDown@RenderObject@@UAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+RenderObject.obj : error LNK2019: __imp____glewDeleteProgram"public: virtual void __thiscall RenderObject::ShutDown(void)" (?ShutDown@RenderObject@@UAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+lib-vc2017\glew32.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+lib-vc2017\glfw3.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\Intel\Downloads\Report\Report\Report\OpenGlSample\Debug\OpenGlSample.exe : fatal error LNK1120: 42개의 확인할 수 없는 외부 참조입니다.
